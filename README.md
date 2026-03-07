@@ -40,7 +40,7 @@ You will also need the following Python libraries:
 You can install the required libraries using the following command:
 
 ```bash
-pip install requirements.txt
+pip install numpy pandas sckit-learn matplotlib seaborn 
 ```
 
 ### Installation
@@ -72,7 +72,7 @@ pip install requirements.txt
 - `Customer_churn_data_large` :  Contains the datasets used for training and testing the model.
 - `main.pynb` : Jupyter notebook for data analysis, model building, and evaluation
 - `README.md` : Project documentation and instructions.
-- `requirements.txt` : List of required Python packages (if available).
+
 
 ---
 Feel free to contribute or raise issues if you have suggestions or encounter problems!
