@@ -69,8 +69,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Structure of the Project
 
-- `notebooks/` : Contains Jupyter Notebooks used for data analysis, model building, and evaluation.
-- `data/` : Contains the datasets used for training and testing the model.
+- `Customer_churn_data_large` :  Contains the datasets used for training and testing the model.
+- `main.pynb` : Jupyter notebook for data analysis, model building, and evaluation
 - `README.md` : Project documentation and instructions.
 - `requirements.txt` : List of required Python packages (if available).
 
